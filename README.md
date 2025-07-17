@@ -27,3 +27,5 @@ Sneha Ghosh
 - `CustomerBehavior.pbix` – Power BI dashboard file
 - `ecommerce_customer_data_custom_ratios.csv` – Dataset used
 - `screenshot1.png` – Dashboard preview
+
+> **Note**: The Power BI file (.pbix) and dataset (.csv) are large and cannot be previewed directly on GitHub. Please download them using the links above to view the content locally.
