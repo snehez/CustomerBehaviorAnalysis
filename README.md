@@ -2,7 +2,7 @@
 Power BI Dashboard analyzing customer behavior using KPIs, slicers, and visual trends.
 # Data Analyst Internship - Task 1: Customer Behavior Analysis
 
-This repository contains my submission for Task 1 of the CodeAlpha Power BI Internship.
+This repository contains my submission for Task 1 of the AlfidoTech Data Analyst Internship.
 
 ## 🔍 Project Objective
 To analyze customer behavior using Power BI by creating an interactive dashboard with:
