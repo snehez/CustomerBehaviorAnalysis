@@ -23,3 +23,7 @@ To analyze customer behavior using Power BI by creating an interactive dashboard
 Sneha Ghosh  
 [LinkedIn Profile](https://www.linkedin.com/in/sneha-ghosh-98aaa9337)
 
+## 🧾 Files Included
+- `CustomerBehavior.pbix` – Power BI dashboard file
+- `ecommerce_customer_data_custom_ratios.csv` – Dataset used
+- `screenshot1.png` – Dashboard preview
