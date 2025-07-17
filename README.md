@@ -11,7 +11,7 @@ To analyze customer behavior using Power BI by creating an interactive dashboard
 - Donut charts, Line charts, and a Gauge chart
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]([screenshot1.png](https://github.com/snehez/CustomerBehaviorAnalysis/blob/main/screenshot1.png.png))
+![Dashboard Screenshot](https://raw.githubusercontent.com/snehez/CustomerBehaviorAnalysis/main/screenshot1.png.png)
 
 ## 🧾 Files Included
 - `CustomerBehavior.pbix` – Power BI dashboard file
