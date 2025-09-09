@@ -1,6 +1,6 @@
 # 🛒 Customer Behavior Analysis
 
-![Dashboard Preview](dashboard/[https://github.com/snehez/CustomerBehaviorAnalysis/blob/main/Dashboard.png)])
+![Dashboard Preview](dashboard/[https://github.com/snehez/CustomerBehaviorAnalysis/blob/main/Dashboard.png])
 
 ## 📌 Introduction
 This project analyzes customer purchasing behavior using a combination of **Python (Google Colab)**, **SQL (MySQL Workbench)**, and **Power BI dashboards**.  
